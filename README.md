@@ -1,2 +1,2 @@
-# Jump-King-Clone
+# Pong-Game
 My first unity project
